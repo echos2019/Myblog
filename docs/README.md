@@ -6,4 +6,4 @@
 
 XJTU的一条菜狗
 
-![表情包](docs/img/init.jpg)
+![表情包](/img/init.jpg)
