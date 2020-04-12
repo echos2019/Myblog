@@ -9,8 +9,12 @@
   - [图像恢复中滤波器的python实现](/DIP_OpenCV/滤波器实现.md)
 
 - 模式识别总结
-
-- [Latex教程网站](https://www.zybuluo.com/codeep/note/163962)
   
-- [makedown教程网站](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
+- Latex，markdown教程以及docsify文档
+
+  - [Latex教程网站](https://www.zybuluo.com/codeep/note/163962)
+  
+  - [makedown教程网站](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
+
+  - [docsify文档](https://docsify.js.org/#/zh-cn/)
   
