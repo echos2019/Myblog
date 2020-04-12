@@ -8,9 +8,9 @@
 
   - [图像恢复中滤波器的python实现](/DIP_OpenCV/滤波器实现.md)
 
-- $\LaTeX$公式插入以及Markdown技巧
-  
-  - [$\LaTeX$公式插入](/Latex/latex_mathtype.md)
-
 - 模式识别总结
+
+- [Latex教程网站](https://www.zybuluo.com/codeep/note/163962)
+  
+- [makedown教程网站](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
   
