@@ -9,6 +9,18 @@
   - [图像恢复中滤波器的python实现](/DIP_OpenCV/滤波器实现.md)
 
 - 模式识别总结
+
+- C++学习零碎
+
+  - [C++类的知识零碎](/Cpp/class_define.md)
+
+  - [STL库的知识零碎](/Cpp/STL_define.md)
+
+- 微信小程序学习以及蓝牙开发
+  - [微信小程序蓝牙API](/wechat/bluetoothAPI.md)
+  
+- 网鼎杯培训
+  - [网鼎杯培训1](/wangding/1.md)
   
 - Latex，markdown教程以及docsify文档
 
