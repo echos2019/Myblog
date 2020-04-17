@@ -7,8 +7,12 @@
 - 数字图像处理 and OpenCV
 
   - [图像恢复中滤波器的python实现](/DIP_OpenCV/滤波器实现.md)
+  - [Canny算法的简单实现](/DIP_OpenCV/Canny.md)
+  - [频域图像处理](/DIP_OpenCV/频域图像处理.md)
+  - [图像压缩编码](DIP_OpenCV/图像压缩编码.md)
 
 - 模式识别总结
+  - [贝叶斯分类](/pattern_recognition/bayes.md)
 
 - C++学习零碎
 
@@ -20,7 +24,7 @@
   - [微信小程序蓝牙API](/wechat/bluetoothAPI.md)
   
 - 网鼎杯培训
-  - [网鼎杯培训1](/wangding/1.md)
+  - [windows系统](/wangding/windows.md)
   
 - Latex，markdown教程以及docsify文档
 
