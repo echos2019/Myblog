@@ -26,9 +26,11 @@
 - 网鼎杯培训
   - [CTFWiki](https://ctf-wiki.github.io/ctf-wiki/)
   - [CTF练习](https://ctf.bugku.com)
+  - [CTF练习repo](/wangding/practice.md)
   - [windows系统](/wangding/windows.md)
   - [linux系统](/wangding/linux.md)
   - [misc杂项](/wangding/misc.md)
+  - [web](/wangding/web/md)
   
 - Latex，markdown教程以及docsify文档
 

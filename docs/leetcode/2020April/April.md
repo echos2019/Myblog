@@ -1,5 +1,9 @@
 # 2020四月每日一题
 
+- [2020.4.19](leetcode\2020April\20200419.md)
+
+- [力扣个人赛](lleetcode\2020April\gerensai.md)
+
 - [2020.4.18](leetcode\2020April\20200418.md)
 
 - [2020.4.17](leetcode\2020April\20200417.md)

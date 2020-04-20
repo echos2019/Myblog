@@ -78,20 +78,20 @@
   - if=输入目录，
   - of=输出目录，
   - bs=大小 c
-  - ount=输出数目，即将if目录下的内容以1M为单位重复100次
-  - eg：dd if=/dev/zero of=hello.txt bs=100M count=1
+  - count=输出数目，即将if目录下的内容以1M为单位重复100次
+  - eg：dd if=/dev/zero of=hello.txt bs=100M count=100
 - hexdump 十六进制输出
 **压缩命令：**
 - tar tar命令能创建、查看和提取tar压缩文件。
-  - tar-cvf 是创建对应压缩文件
-  - tar-tvf 来查看对应压缩文件
-  - tar-xvf 来提取对应压缩文件
+  - tar -cvf 是创建对应压缩文件
+  - tar -tvf 来查看对应压缩文件
+  - tar -xvf 来提取对应压缩文件
   - -j 使用bzip2压缩工具压缩，后缀名写.tar.bz2
   - -z 使用gzip压缩工具压缩，后缀名写.tar.gz
   - -c create创建
   - -f 后面跟新建的文件名
   - -t 不解压缩查看文件内容
-  - tar-xf 1901class.tar.gz-C/opt
+  - tar -xf 1901class.tar.gz -C /opt
   - -x 解压缩并解包
   - -C 指定解压路径
 - gzip 压缩，对应unzip为解压缩
