@@ -7,3 +7,7 @@
 XJTU的一条菜狗
 
 ![表情包](\img\init.jpg)
+
+# 友链
+> [renzehua@github](https://renzehua1998.github.io)
+

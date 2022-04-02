@@ -3,16 +3,6 @@
   - [2020四月每日一题](/leetcode/2020April/April.md)
     
   - [2020三月每日一题](/leetcode/2020March/March.md)
-  
-- 数字图像处理 and OpenCV
-
-  - [图像恢复中滤波器的python实现](/DIP_OpenCV/滤波器实现.md)
-  - [Canny算法的简单实现](/DIP_OpenCV/Canny.md)
-  - [频域图像处理](/DIP_OpenCV/频域图像处理.md)
-  - [图像压缩编码](DIP_OpenCV/图像压缩编码.md)
-
-- 模式识别总结
-  - [贝叶斯分类](/pattern_recognition/bayes.md)
 
 - C++学习零碎
 
@@ -20,9 +10,11 @@
 
   - [STL库的知识零碎](/Cpp/STL_define.md)
 
-- 微信小程序学习以及蓝牙开发
-  - [微信小程序蓝牙API](/wechat/bluetoothAPI.md)
-  
+- Android学习
+
+   - [ollvm混淆教程](/Android/ollvm.md)
+
+
 - 网鼎杯培训
   - [CTFWiki](https://ctf-wiki.github.io/ctf-wiki/)
   - [CTF练习](https://ctf.bugku.com)
